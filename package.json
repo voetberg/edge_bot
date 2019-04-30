@@ -1,0 +1,23 @@
+{
+  "name": "edge_bot",
+  "version": "1.0.0",
+  "description": "'Hell Zone Chatbot'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voetberg/edge_bot.git"
+  },
+  "author": "alex v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voetberg/edge_bot/issues"
+  },
+  "homepage": "https://github.com/voetberg/edge_bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eslint": "^5.16.0"
+  }
+}
