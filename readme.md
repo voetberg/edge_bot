@@ -13,5 +13,6 @@ I'm working on it
 
 -Insult phoenix replies
 
+-Hook him up to twitter bots. Do quote theft.
 
 -MAYBE JUST MAKE HIM A PHOENIX BOT BUDDY
